@@ -1,0 +1,10 @@
+Solve code run in terminal (base for parrot os / kali linux / ubuntu) %100 working command :
+ 1. git clone https://github.com/mkubecek/vmware-host-modules.git
+ 2. cd vmware-host-modules
+ 3. git checkout player-16.2.3
+ 4. make
+ 5. sudo make install
+ 6. sudo /etc/init.d/vmware start
+
+And solve (unable to install all module) this error.
+Enjoy your VMware.
